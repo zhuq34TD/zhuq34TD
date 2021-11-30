@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhuq34TD
-- 👀 I’m interested in python and Cognitive behavioral therapy
+- 👀 I’m interested in computer programming and Cognitive behavioral therapy
 - 🌱 I’m currently learning python
 - 📫 You can contact me at 779619792@qq.com
 
